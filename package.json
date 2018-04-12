@@ -1,0 +1,26 @@
+{
+  "name": "landscapes",
+  "version": "0.0.1",
+  "description": "Landscapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqwitt/landscapes.git"
+  },
+  "keywords": [
+    "landscapes",
+    "svg"
+  ],
+  "author": "Zachary Witt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zqwitt/landscapes/issues"
+  },
+  "homepage": "https://github.com/zqwitt/landscapes#readme",
+  "dependencies": {
+    "roughjs": "^2.0.1"
+  }
+}
